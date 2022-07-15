@@ -5,6 +5,6 @@ I Started out on Android, now I secretly enjoy writing JavaScript, well (TypeScr
 
 ## Things I use on a daily basis
 
-![](https://readme-components.vercel.app/api?component=logo&logo=typescript&fill=2F72BC&iconfill=000000) ![](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=EAD41C&textfill=000000)
+![](https://readme-components.vercel.app/api?component=logo&logo=typescript&fill=2F72BC&textfill=000000) ![](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=EAD41C&textfill=000000)
 ![](https://readme-components.vercel.app/api?component=logo&logo=bootstrap&fill=EAD41C&textfill=000000) ![](https://readme-components.vercel.app/api?component=logo&logo=react&fill=EAD41C&textfill=000000)
 ![](https://readme-components.vercel.app/api?component=logo&logo=java&fill=EAD41C&textfill=000000)
