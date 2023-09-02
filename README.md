@@ -8,3 +8,4 @@ I Started out on Android, now I secretly enjoy writing JavaScript, well (TypeScr
 ![](https://readme-components.vercel.app/api?component=logo&logo=typescript&fill=2F72BC&logofill=000000) ![](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=EAD41C&textfill=000000)
 ![](https://readme-components.vercel.app/api?component=logo&logo=bootstrap&fill=EAD41C&textfill=000000) ![](https://readme-components.vercel.app/api?component=logo&logo=react&fill=EAD41C&textfill=000000)
 ![](https://readme-components.vercel.app/api?component=logo&logo=java&fill=EAD41C&textfill=000000)
+![](https://readme-components.vercel.app/api?component=logo&logo=lua&fill=02027d)
