@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm isaac Qadri Software Developer, developing FullStack apps.
+I'm isaac Qadri Software Developer, developing FullStack apps.  
 I Started out on Android, now I secretly enjoy writing JavaScript, well (TypeScript).
 
 ## Things I use on a daily basis
