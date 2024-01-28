@@ -4,11 +4,4 @@ I Started out on Android, now I secretly enjoy writing JavaScript, well (TypeScr
 
 ## Things I use on a daily basis
 
-<img src="./icons/Java.svg" alt="Java" width="100"/>  
-![](./icons/Java.svg)
-![](./icons/Typescript.svg)
-![](./icons/Javascript.svg)
-![](./icons/Vue.svg)
-![](./icons/Nuxt.svg)
-![](./icons/Tailwindcss.svg)
-![](./icons/Bootstrap.svg)
+<img src="./icons/Java.svg" alt="Java" width="200"/> <img src="./icons/Typescript.svg" alt="Typescript" width="200"/> <img src="./icons/Javascript.svg" alt="Javascript" width="200"/> <img src="./icons/Vue.svg" alt="Vue" width="200"/> <img src="./icons/Nuxt.svg" alt="Nuxt" width="200"/> <img src="./icons/Tailwindcss.svg" alt="Tailwindcss" width="200"/> <img src="./icons/Bootstrap.svg" alt="Bootstrap" width="200"/>
