@@ -4,7 +4,7 @@ I Started out on Android, now I secretly enjoy writing JavaScript, well (TypeScr
 
 ## Things I use on a daily basis
 
-<img src="./icons/Java.svg" alt="Java" width="100"/>
+<img src="./icons/Java.svg" alt="Java" width="100"/>  
 ![](./icons/Java.svg)
 ![](./icons/Typescript.svg)
 ![](./icons/Javascript.svg)
